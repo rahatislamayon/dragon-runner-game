@@ -37,7 +37,7 @@ After building, you can run the game with the following command:
 ```
 
 ## Controls
-- Press the spacebar to make the dragon jump over obstacles.
+- Press the spacebar to make the dragon jump over obstacles.glolo
 
 ## Scoring
 The player scores points by successfully jumping over obstacles. The score is displayed on the screen during gameplay.
