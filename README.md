@@ -41,6 +41,7 @@ After building, you can run the game with the following command:
 
 ## Scoring
 The player scores points by successfully jumping over obstacles. The score is displayed on the screen during gameplay.
+this is gor bage
 
 ## Dependencies
 This project is written in standard C and does not require any external libraries. It should compile on any system with a C compiler.
